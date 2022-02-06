@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roundishbox
-- 👀 I’m interested in learning about coding to potentially start a career
+- 👀 I’m interested in learning about coding to potentially change careers
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on life
 
